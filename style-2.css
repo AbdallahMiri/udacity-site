@@ -1,0 +1,14 @@
+@import "main-style.css";
+
+.grid-big-contener .card .image img {
+    margin-left: -2px;
+    margin-top: -27px;
+    width: 103%;
+}
+.grid-big-contener .card .info {
+    background-color: #4FACFF;
+}
+.grid-big-contener .card .info .A2 {
+    border-left:1px solid #5091db;
+    border-right:1px solid #5091db;
+}
