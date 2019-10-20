@@ -41,7 +41,7 @@ body {background-color: #C6BBA5;}
     margin: 100px auto;
 }
 .grid-big-contener .card .image {
-    background-image: url('../image/card-bg.jpg');
+    background-image: url('card-bg.jpg');
     height: 229px;
     border-radius: 15px 15px 0 0;
     background-size: cover;
