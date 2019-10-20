@@ -1,5 +1,0 @@
-Color Codes
-Level text : #EC9B3B
-1st card stats: #EC9B3B
-2nd card stats: #4FACFF
-3rd card stats: #78ad29
